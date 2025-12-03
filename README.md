@@ -1,2 +1,2 @@
-# EventHive-api
-EventHive-api
+# event-hive-api
+College event management platform backend API
